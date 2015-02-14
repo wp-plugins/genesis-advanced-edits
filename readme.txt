@@ -6,7 +6,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Genesis Advanced Edits allows you to make edits to a range of content areas in your Genesis theme. It also allows you to configure your Genesis site in ways beyond those available in the standard Genesis settings panel, such as enabling custom post type archives settings. This is NOT an official StudioPress plugin.
+Genesis Advanced Edits allows you to make edits to a range of content areas in your Genesis theme.
 
 == Description ==
 
